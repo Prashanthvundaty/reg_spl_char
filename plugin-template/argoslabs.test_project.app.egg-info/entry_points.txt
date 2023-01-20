@@ -1,0 +1,3 @@
+[console_scripts]
+argoslabs.test_project.app = argoslabs.test_project.app:main
+

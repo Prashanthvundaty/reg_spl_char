@@ -1,0 +1,29 @@
+Metadata-Version: 1.2
+Name: argoslabs.test-project.app
+Version: 2.465.2852
+Summary: ARGOS-LABS RPA plugin module sample
+Home-page: https://www.argos-labs.com
+Author: Prashanth Kumar V
+Author-email: mcchae@argos-labs.com
+License: ARGOS-LABS Proprietary License
+Description: UNKNOWN
+Keywords: rpa,robot,module,test_project,argoslabs,app
+Platform: Mac
+Platform: Windows
+Platform: Linux
+Classifier: Build :: Date :: 2023-01-20 16:02
+Classifier: Build :: Method :: alabs.ppm
+Classifier: License :: Other/Proprietary License
+Classifier: Natural Language :: English
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Change :: Log :: Unittest for Linux
+Classifier: Topic :: Change :: Log :: Unittest for Mac
+Classifier: Topic :: Change :: Log :: Unittest for Windows
+Classifier: Topic :: Demo :: Special Char app
+Classifier: Topic :: RPA
+Requires-Python: >=3.6
